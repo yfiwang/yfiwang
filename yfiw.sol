@@ -10,7 +10,7 @@
        YFIW collects the different tokens deposited by users into different pools, 
        and then mobilizes the funds of a certain token pool to participate in different 
        liquidity mining according to the strategy, thereby achieving higher returns.  
-  Submitted for verification at Etherscan.io on 2020-10-30  
+  Submitted for verification at Etherscan.io on 2020-11-01  
 */
 pragma solidity ^0.5.2;
 contract ERC20Interface {
